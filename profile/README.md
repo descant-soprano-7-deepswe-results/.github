@@ -1,6 +1,6 @@
-# Descant benchmark results (DeepSWE v1.1)
+# Descant Soprano 7 benchmark results (DeepSWE v1.1)
 
-This organisation holds the full run records of the Descant benchmark on DeepSWE v1.1: 113 repositories, every pull request, review round and run.
+This organization holds the full run records of the Descant Soprano 7 benchmark on DeepSWE v1.1: 113 repositories, every pull request, review round and run.
 
 The repositories are private. To see the results, request access through the contact form: https://descant.run/contact?subject=Request%20access%20to%20the%20benchmark%20results
 
